@@ -10,7 +10,7 @@ To run this demo, you need to have:
 1. Clone this repository
 
 ```bash
-git clone git@github.com:thorwebdev/langchain-chatbot-demo.git
+git clone [git@github.com:thorwebdev/langchain-chatbot-demo.git](https://github.com/thanhluan15/langchain-chatbot-demo.git)
 ```
 
 2. Install dependencies
